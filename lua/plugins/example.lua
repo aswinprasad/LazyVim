@@ -62,6 +62,7 @@ return {
       },
     },
   },
+  --
 
   -- add pyright to lspconfig
   {
